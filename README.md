@@ -1,1 +1,1 @@
-# Make RSS feed from sponsr.ru feed by parsing
+# Make RSS feed from podcasts on sponsr.ru
